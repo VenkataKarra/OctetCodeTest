@@ -1,0 +1,93 @@
+[
+  {
+    "customerId": 1,
+    "name": "Customer1",
+    "invoices": [
+      {
+        "invoiceId": 1,
+        "invoiceIssueDate": "2022-06-15",
+        "invoiceOriginalAmount": 15000,
+        "outstandingAmount": 1000
+      },
+      {
+        "invoiceId": 2,
+        "invoiceIssueDate": "2022-06-16",
+        "invoiceOriginalAmount": 25000,
+        "outstandingAmount": 2000
+      },
+      {
+        "invoiceId": 3,
+        "invoiceIssueDate": "2022-06-17",
+        "invoiceOriginalAmount": 35000,
+        "outstandingAmount": 3000
+      }
+    ]
+  },
+  {
+    "customerId": 2,
+    "name": "Customer2",
+    "invoices": [
+      {
+        "invoiceId": 1,
+        "invoiceIssueDate": "2022-07-25",
+        "invoiceOriginalAmount": 50000,
+        "outstandingAmount": 1000
+      },
+      {
+        "invoiceId": 2,
+        "invoiceIssueDate": "2022-07-26",
+        "invoiceOriginalAmount": 50000,
+        "outstandingAmount": 2000
+      },
+      {
+        "invoiceId": 3,
+        "invoiceIssueDate": "2022-04-27",
+        "invoiceOriginalAmount": 25000,
+        "outstandingAmount": 5000
+      }
+    ]
+  },
+  {
+    "customerId": 3,
+    "name": "Customer3",
+    "invoices": [
+      {
+        "invoiceId": 1,
+        "invoiceIssueDate": "2022-07-25",
+        "invoiceOriginalAmount": 75000,
+        "outstandingAmount": 1000
+      },
+      {
+        "invoiceId": 2,
+        "invoiceIssueDate": "2022-08-10",
+        "invoiceOriginalAmount": 35000,
+        "outstandingAmount": 2000
+      },
+      {
+        "invoiceId": 3,
+        "invoiceIssueDate": "2022-06-30",
+        "invoiceOriginalAmount": 25000,
+        "outstandingAmount": 3000
+      }
+    ]
+  },
+  {
+    "customerId": 4,
+    "name": "Customer4",
+    "invoices": [
+      {
+        "invoiceId": 1,
+        "invoiceIssueDate": "2022-07-25",
+        "invoiceOriginalAmount": 120000,
+        "outstandingAmount": 10000
+      },
+      {
+        "invoiceId": 2,
+        "invoiceIssueDate": "2022-04-26",
+        "invoiceOriginalAmount": 50000,
+        "outstandingAmount": 10000
+      }
+    ]
+  }
+    
+]
